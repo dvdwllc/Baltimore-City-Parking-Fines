@@ -1,5 +1,5 @@
 # Baltimore City Parking Fines
-Create and query an SQL database containing all Bmore fines from last two years.
+Create and query a SQL database containing all Bmore fines from last two years.
 
 Part I: createDB.py -- 
   This python script uses the sqlite3 module to create a SQL database from a csv file that can then be queried directly using SQL.
